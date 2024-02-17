@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Docker, CSS, HTML, Javascript**
 
+- 👨‍💼 I’m looking for job - backend, later fullstack
+
 - 🤝 I’m looking for help with [F1 tips](https://github.com/Filip057/f1tips)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Filip057?tab=repositories](https://github.com/Filip057?tab=repositories)
