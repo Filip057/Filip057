@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Filip057?tab=repositories](https://github.com/Filip057?tab=repositories)
 
-- 📫 How to reach me **filip.prudek**
+- 📫 How to reach me **filip.prudek@seznam.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
