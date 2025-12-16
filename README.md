@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip Prudek</h1>
 <h3 align="center">Enthusiastic junior pythonista</h3>
 
-- 🔭 I’m currently working on [Blackjack API](https://github.com/Filip057/blackjack-api)
+- 🔭 I’m currently working on [Coffee rating](https://github.com/Filip057/coffee_rating)
 
-- 🌱 I’m currently learning **Docker, CSS, HTML, Javascript**
-
-- 👨‍💼 I’m looking for job - PYTHON backend, later fullstack
-
-- 🤝 I’m looking for help with [F1 tips](https://github.com/Filip057/f1tips)
-
+- 🌱 I’m currently learning **Django**
 - 👨‍💻 All of my projects are available at [https://github.com/Filip057?tab=repositories](https://github.com/Filip057?tab=repositories)
 
 - 📫 How to reach me **filip.prudek@seznam.cz**
