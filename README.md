@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filip Prudek</h1>
 <h3 align="center">Enthusiastic junior pythonista</h3>
 
-- 🔭 I’m currently working on [Coffee rating](https://github.com/Filip057/coffee_rating)
+- 🔭 I’m currently working on [Coffee rating](https://github.com/Filip057/coffee-rating)
 
 - 🌱 I’m currently learning **Django**
 - 👨‍💻 All of my projects are available at [https://github.com/Filip057?tab=repositories](https://github.com/Filip057?tab=repositories)
